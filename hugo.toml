@@ -70,10 +70,10 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "ILXNAH's den"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
+      subtitle = "Mostly about tech"
       owner = ""
       keywords = ""
       copyright = ""
