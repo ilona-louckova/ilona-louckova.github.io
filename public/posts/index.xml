@@ -174,31 +174,5 @@
       <content></content>
     </item>
     
-    <item>
-      <title> </title>
-      <link>/posts/new-blog-post1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/new-blog-post1/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/images/blue-wallpaper-7.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
-      <content>&lt;p&gt;&lt;img src=&#34;/images/blue-wallpaper-7.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Testing the script</title>
-      <link>/posts/testing-the-script/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/testing-the-script/</guid>
-      <description>&lt;p&gt;Testing out the final script.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/Cannonical%20wallpaper.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Added .jpg and .jpeg into images.py since the regex only searched for .png&lt;/p&gt;</description>
-      <content>&lt;p&gt;Testing out the final script.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/Cannonical%20wallpaper.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Added .jpg and .jpeg into images.py since the regex only searched for .png&lt;/p&gt;
-</content>
-    </item>
-    
   </channel>
 </rss>
