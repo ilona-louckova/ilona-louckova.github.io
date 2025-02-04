@@ -95,7 +95,7 @@ for filename in os.listdir(posts_dir):
 print("Markdown files processed and images copied successfully.")
 ```
 - added image for testing purposes of the part of the script we just did:
-	[[Pasted image 20250131130510.png]]
+	![Image Description](/images/Pasted%20image%2020250131130510.png)
 ### Pushing code into GitHub
 - create GitHub repo with name `ILXNAH.github.io` and set visibility to public
 - you will need an SSH key, which you can generate with `ssh-keygen -t rsa -b 4096 -C "ILXNAH@tutanota.com"` if you don't have one yet
