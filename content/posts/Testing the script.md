@@ -7,4 +7,4 @@ sticker: ""
 ---
 Testing out the final script.
 
-![[Cannonical wallpaper.jpg]]
+!![Image Description](/images/Cannonical%20wallpaper.jpg)
