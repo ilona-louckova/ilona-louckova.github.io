@@ -1,7 +1,7 @@
 ---
 title: Testing the script
 date: 
-draft: true
+draft: false
 tags: 
 sticker: ""
 ---

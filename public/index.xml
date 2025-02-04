@@ -174,5 +174,18 @@
       <content></content>
     </item>
     
+    <item>
+      <title>Testing the script</title>
+      <link>/posts/testing-the-script/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/testing-the-script/</guid>
+      <description>&lt;p&gt;Testing out the final script.&lt;/p&gt;
+&lt;p&gt;![[ubuntu-4k-djsh5p3j3atjpe28.jpg]]&lt;/p&gt;</description>
+      <content>&lt;p&gt;Testing out the final script.&lt;/p&gt;
+&lt;p&gt;![[ubuntu-4k-djsh5p3j3atjpe28.jpg]]&lt;/p&gt;
+</content>
+    </item>
+    
   </channel>
 </rss>
