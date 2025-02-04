@@ -111,7 +111,7 @@ if (-not $hasStagedChanges) {
 # Step 7: Push all changes to the main branch
 Write-Host "Pushing to GitHub Main..."
 try {
-    git push origin master
+    git push origin main
 } catch {
     Write-Error "Failed to push to Main branch."
     exit 1
